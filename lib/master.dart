@@ -49,7 +49,7 @@ class _MasterScreenState extends State<MasterScreen> {
 
             ),
             BottomNavigationBarItem(icon: Icon(Icons.layers),
-              label:'feed',
+              label:'Learn',
               backgroundColor: Colors.white70,
 
 
